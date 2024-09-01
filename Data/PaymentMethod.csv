@@ -1,0 +1,7 @@
+PaymentTypeId,PaymentMethod
+1,Online Payment Service
+2,Carrier Billing
+3,Bank Transfer
+4,Bank Transfer
+5,Carrier Billing
+6,Carrier Billing

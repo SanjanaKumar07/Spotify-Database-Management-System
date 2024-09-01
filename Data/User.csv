@@ -1,0 +1,101 @@
+UserId,UserName,Email,Gender,ListeningDevice,Region,Followers,SubscriptionId,PaymentId
+1,Kimbell Blesdill,kblesdill0@shareasale.com,Male,Windows PC,MV-01,125525988,5,1
+2,Leo Yarrall,lyarrall1@jiathis.com,Male,Streaming Stick,CA-NT,129700749,5,4
+3,Elsbeth Brickwood,ebrickwood2@ebay.com,Female,macOS Computers,BR-AM,121228683,5,5
+4,Bambi Hollyman,bhollyman3@imageshack.us,Female,Smart TV,CG-12,11650272,4,2
+5,Amos Beagrie,abeagrie4@ycombinator.com,Male,In-car infotainment system,BR-GO,48650848,1,1
+6,Joice Phin,jphin5@businessweek.com,Female,Google Home (Google Assistant),US-NY,38015222,2,5
+7,Germaine Harness,gharness6@mozilla.com,Male,Amazon Echo (Alexa),BR-CE,78113696,1,2
+8,Erminie Elstow,eelstow7@washingtonpost.com,Genderqueer,In-car infotainment system,CA-BC,37849660,1,5
+9,Free Krolik,fkrolik8@time.com,Male,Tablet,VE-C,27764436,3,2
+10,Dora Attride,dattride9@nymag.com,Female,Apple HomePod (Siri),CN-34,128767718,2,3
+11,Tatum Forman,tformana@europa.eu,Female,Smart TV,CO-ANT,130999800,2,5
+12,Grazia Gepp,ggeppb@google.nl,Female,macOS Computers,PK-SD,132883928,3,5
+13,Conan Backler,cbacklerc@ycombinator.com,Male,Smartphone,SO-MU,78182355,5,4
+14,Carole Ronnay,cronnayd@imdb.com,Female,Amazon Echo (Alexa),AU-QLD,114916447,5,2
+15,Roanne Purrier,rpurriere@angelfire.com,Female,Amazon Echo (Alexa),CA-BC,76657153,3,6
+16,Johnnie Legrave,jlegravef@house.gov,Male,Tablet,PG-CPM,95919139,1,6
+17,Abbot Filipponi,afilipponig@xing.com,Male,Windows PC,CA-QC,6568634,1,6
+18,Vaughn Sommerton,vsommertonh@qq.com,Male,Streaming Stick,UG-406,129729067,4,4
+19,Gwenette Dellenbroker,gdellenbrokeri@gov.uk,Female,Gaming Console,CH-SO,115273865,5,2
+20,Joe Hubble,jhubblej@geocities.com,Male,Streaming Stick,US-CA,93409258,2,5
+21,Stavros Hillett,shillettk@rambler.ru,Male,Google Home (Google Assistant),AR-Z,98390231,2,2
+22,Kala Vany,kvanyl@digg.com,Female,Streaming Stick,PT-20,100361183,1,1
+23,Sully Owbridge,sowbridgem@lulu.com,Male,Tablet,US-IN,62639397,4,3
+24,Galen Rawson,grawsonn@tinyurl.com,Male,Windows PC,LR-NI,85003448,5,1
+25,Cosimo Cossor,ccossoro@360.cn,Agender,macOS Computers,CA-AB,58716549,1,6
+26,Torrance Mountlow,tmountlowp@hud.gov,Male,Amazon Echo (Alexa),CA-BC,119797142,3,1
+27,Frayda Nind,fnindq@github.com,Genderqueer,Smartphone,US-AK,48616730,3,1
+28,Illa Kempstone,ikempstoner@liveinternet.ru,Female,Amazon Echo (Alexa),US-AZ,24335284,5,3
+29,Adele Fretson,afretsons@slideshare.net,Female,Windows PC,UA-12,73895940,5,5
+30,Liza Wedge,lwedget@sciencedaily.com,Female,Windows PC,RU-SA,42177883,5,5
+31,Lulu Hawkswell,lhawkswellu@friendfeed.com,Female,macOS Computers,TR-42,60348222,4,3
+32,Noemi Bellhanger,nbellhangerv@mayoclinic.com,Female,Gaming Console,AO-ZAI,14054420,3,6
+33,Elane Wisdish,ewisdishw@si.edu,Female,Apple HomePod (Siri),JP-01,96599767,3,1
+34,Esra Nelane,enelanex@mozilla.org,Male,In-car infotainment system,BR-SP,82814300,3,3
+35,Isa Augustin,iaugustiny@networkadvertising.org,Male,Windows PC,CA-NU,23935470,2,3
+36,Cherilyn Hurley,churleyz@apple.com,Bigender,Windows PC,US-NV,109791488,2,1
+37,Claus Magovern,cmagovern10@slideshare.net,Male,macOS Computers,FR-C,57631668,1,2
+38,Batholomew Benner,bbenner11@reference.com,Male,In-car infotainment system,CA-MB,63574003,3,1
+39,Claudian Janusik,cjanusik12@jalbum.net,Male,Gaming Console,BR-MG,13055343,5,5
+40,Jacquenette Scandwright,jscandwright13@bluehost.com,Female,Streaming Stick,BR-TO,59959019,3,6
+41,Arney Tythacott,atythacott14@oracle.com,Male,Smartphone,AU-NT,57015321,1,1
+42,Christian Das,cdas15@state.gov,Female,Streaming Stick,HR-14,77682839,1,6
+43,Nyssa Philippard,nphilippard16@globo.com,Female,Google Home (Google Assistant),NO-19,127120358,1,1
+44,Isidor Grammer,igrammer17@smh.com.au,Male,macOS Computers,NA-OT,110122668,2,2
+45,Leyla Oke,loke18@google.com.br,Female,macOS Computers,US-IN,43841365,1,1
+46,Lanie Handlin,lhandlin19@cbc.ca,Female,macOS Computers,US-IN,24399239,1,6
+47,Mal Sale,msale1a@vimeo.com,Male,In-car infotainment system,SE-H,34521222,1,6
+48,Martelle Dietzler,mdietzler1b@ycombinator.com,Female,Smartphone,AR-Z,88303640,5,3
+49,Patricio Dunstone,pdunstone1c@theatlantic.com,Genderqueer,Windows PC,AU-NSW,31423753,5,3
+50,Coriss Feltham,cfeltham1d@google.pl,Female,Streaming Stick,PG-NIK,64016597,5,3
+51,Ann-marie Weatherley,aweatherley1e@histats.com,Female,Gaming Console,KP-09,33794188,5,2
+52,Viki Whife,vwhife1f@devhub.com,Female,Smartphone,CU-07,51816993,5,1
+53,Maje Totman,mtotman1g@topsy.com,Male,macOS Computers,ID-AC,29605141,5,4
+54,Armand Gare,agare1h@nydailynews.com,Bigender,In-car infotainment system,GP-U-A,125060982,3,3
+55,Mignonne Colliford,mcolliford1i@cmu.edu,Female,Google Home (Google Assistant),BR-MT,49878541,1,2
+56,Sarette Muzzall,smuzzall1j@craigslist.org,Female,Smartphone,TV-FUN,104508819,4,1
+57,Ally Vitet,avitet1k@dion.ne.jp,Female,Streaming Stick,PG-SHM,25120591,3,3
+58,Kiersten Armin,karmin1l@a8.net,Female,In-car infotainment system,IR-13,58583227,1,5
+59,Bartram Barnwill,bbarnwill1m@goo.ne.jp,Male,Windows PC,ID-JK,8221889,2,5
+60,Jackelyn Jakucewicz,jjakucewicz1n@domainmarket.com,Female,Tablet,US-MO,31469582,4,3
+61,Berky Tixier,btixier1o@wsj.com,Male,Amazon Echo (Alexa),CN-11,70987593,2,6
+62,Gerti Smye,gsmye1p@unesco.org,Female,Smart TV,CD-KA,38221203,3,4
+63,Billi Maypes,bmaypes1q@marriott.com,Female,Gaming Console,GA-2,23366312,1,1
+64,Colin De Mitris,cde1r@last.fm,Male,In-car infotainment system,US-LA,19811530,5,5
+65,Perceval Fairlaw,pfairlaw1s@techcrunch.com,Male,Windows PC,YE-HD,18933677,4,6
+66,Cassaundra Rosevear,crosevear1t@state.tx.us,Female,Tablet,BS-MH,13214994,5,4
+67,Larina Danilov,ldanilov1u@addthis.com,Female,Gaming Console,AU-WA,57137835,3,3
+68,D'arcy Rubes,drubes1v@flavors.me,Male,Gaming Console,AT-4,15570579,2,4
+69,Brigitta Strongitharm,bstrongitharm1w@shareasale.com,Female,Smartphone,RU-SPE,55357979,1,4
+70,Farrel Beiderbeck,fbeiderbeck1x@alexa.com,Male,macOS Computers,US-AK,88988958,4,1
+71,Waylin Fearne,wfearne1y@altervista.org,Male,Tablet,US-WA,128538190,3,2
+72,Terza Hordle,thordle1z@accuweather.com,Female,Gaming Console,CN-15,90996954,2,4
+73,Wendeline Wisdom,wwisdom20@reuters.com,Genderqueer,Smart TV,US-WI,99032169,1,2
+74,Kirbie Westwood,kwestwood21@ovh.net,Female,Streaming Stick,CN-21,95274019,1,2
+75,Moyra Wyvill,mwyvill22@merriam-webster.com,Female,Windows PC,IR-20,52109832,2,2
+76,Ada Pindell,apindell23@so-net.ne.jp,Female,Google Home (Google Assistant),MH-LAE,37397801,4,6
+77,Mellicent Enns,menns24@wordpress.org,Female,Gaming Console,AU-NSW,79408827,2,2
+78,Lemar Seymark,lseymark25@wp.com,Male,In-car infotainment system,PH-MSR,38397142,4,6
+79,Arley Frankton,afrankton26@booking.com,Male,Amazon Echo (Alexa),BD-2,125803267,4,6
+80,Teodoro Eagling,teagling27@unblog.fr,Male,Windows PC,GB-ENG,96489137,3,4
+81,Silvio Adenet,sadenet28@yolasite.com,Male,Gaming Console,ID-NT,123837187,3,1
+82,Vittorio Turle,vturle29@plala.or.jp,Male,macOS Computers,AS-U-A,102872148,1,5
+83,Karyn Oxlade,koxlade2a@altervista.org,Female,Apple HomePod (Siri),ID-AC,4007658,3,1
+84,Sumner Castro,scastro2b@rakuten.co.jp,Agender,In-car infotainment system,MX-GUA,62429660,1,3
+85,Griffie Ramelot,gramelot2c@php.net,Male,Windows PC,ZA-NC,111151797,4,4
+86,Chad Gavagan,cgavagan2d@tumblr.com,Male,Gaming Console,PG-WPD,89104746,2,4
+87,Charlene Calwell,ccalwell2e@1688.com,Female,Tablet,ZA-NW,42416284,2,6
+88,Catherine Teasdale,cteasdale2f@sohu.com,Genderqueer,In-car infotainment system,AU-WA,83839384,5,5
+89,Kim MacRonald,kmacronald2g@mysql.com,Male,Smartphone,NO-20,42733332,4,3
+90,Marrilee Althrope,malthrope2h@bloglines.com,Female,In-car infotainment system,AR-V,116535390,5,1
+91,Wyn Eteen,weteen2i@ehow.com,Male,In-car infotainment system,DK-83,88005696,3,5
+92,Eleanor Le Breton,ele2j@com.com,Female,Streaming Stick,AU-VIC,114740984,3,4
+93,Basia Hawkin,bhawkin2k@cnet.com,Agender,Tablet,CM-NO,117756888,2,1
+94,Malcolm Stockings,mstockings2l@jiathis.com,Male,Gaming Console,US-ID,117554377,1,2
+95,Shurlocke Spadazzi,sspadazzi2m@chronoengine.com,Male,Amazon Echo (Alexa),TR-34,43720093,4,5
+96,Wynnie Bromwich,wbromwich2n@hexun.com,Female,macOS Computers,US-TX,109112526,3,2
+97,Neel Humberstone,nhumberstone2o@telegraph.co.uk,Male,Tablet,CD-BC,37915079,4,5
+98,Torrie Ketchell,tketchell2p@amazon.de,Agender,Streaming Stick,CL-MA,5936923,5,2
+99,Andrus Dunbleton,adunbleton2q@vistaprint.com,Male,Streaming Stick,CA-BC,9755573,3,4
+100,Simonette Bradock,sbradock2r@google.ca,Female,macOS Computers,CA-QC,25324108,3,6
